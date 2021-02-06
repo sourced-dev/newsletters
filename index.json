@@ -2,11 +2,13 @@
     {
         "title": "SourceCode#15",
         "file": "SourceCode#15.md",
-        "description": "New open source tools, Elastic changes their license, Github Codespaces.."
+        "target": "issue-15",
+        "description": "New open source tools, Elastic changes their license, Github Codespaces asdasdsadasfwqarfaqwd.."
     },
     {
         "title": "SourceCode#16",
         "file": "SourceCode#16.md",
+        "target": "issue-16",
         "description": "New open source tools, Elastic changes their license, Github Codespaces.."
     }
 ]
