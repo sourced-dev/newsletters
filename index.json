@@ -1,14 +1,14 @@
 [
     {
-        "title": "SourceCode#15",
-        "file": "SourceCode#15.md",
-        "target": "issue-15",
-        "description": "New open source tools, Elastic changes their license, Github Codespaces asdasdsadasfwqarfaqwd.."
+        "title": "SourceCode #1",
+        "description": "New open source tools, Elastic changes their license, Github Codespaces asdasdsadasfwqarfaqwd..",
+        "file": "source1.md",
+        "location": "new-open-source-tools"
     },
     {
         "title": "SourceCode#16",
+        "description": "New open source tools, Elastic changes their license, Github Codespaces..",
         "file": "SourceCode#16.md",
-        "target": "issue-16",
-        "description": "New open source tools, Elastic changes their license, Github Codespaces.."
+        "location": "elastic-changes-license"
     }
 ]
