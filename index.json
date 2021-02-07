@@ -10,5 +10,11 @@
         "description": "New open source tools, Elastic changes their license, Github Codespaces..",
         "file": "source2.md",
         "location": "elastic-changes-license"
+    },
+    {
+        "title": "SourceCode #3",
+        "description": "Rapid Robotics Funding, Facebook as Proxy",
+        "file": "source3.md",
+        "location": "rapid-robotics-facebook-as-proxy"
     }
 ]
