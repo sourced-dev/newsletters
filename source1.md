@@ -15,3 +15,24 @@ Perhaps GitHub is 12 years late in finally revealing their source code to the pu
 [Raycast](https://raycast.com/) is a developer-focused productivity tool that aims to be the quickest way to get common tasks done. Users can easily create and re-modify issues in Jira, merge pull requests in GitHub and find documents.
 
 We’re long Raycast here at SourceCode. More [here](https://techcrunch.com/2020/10/29/developer-productivity-tools-startup-raycast-raises-2-7m-from-accel/).
+
+---
+
+## Career Opportunities ⚡️
+
+→ Vercel is hiring for a DevOps Engineer. Apply [here](https://vercel.com/careers).
+
+→ Northflank is hiring for a Senior DevOps Engineer. Apply [here](https://northflank.com/careers/devops-engineer).
+
+→ Lightstep is hiring for a Software Engineer. Apply [here](https://boards.greenhouse.io/lightstep/jobs/2386344).
+
+→ Comma.ai is hiring for an Infrastructure Engineer. Apply [here](https://comma.ai/jobs#work_at_comma_dot_ai).
+
+→ Sym is hiring for a Product Designer. Apply [here](https://boards.greenhouse.io/sym).
+
+
+**Each week at Source Code we showcase some interesting jobs, at some amazing companies. Reach out if you’re hiring. We’d love to help. 👋**
+
+---
+
+Interested in reading our full newsletter? Subscribe for weekly updates on developer news, career opportunities & tools below. 👇
