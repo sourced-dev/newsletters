@@ -13,7 +13,7 @@
     "file": "source2.md",
     "location": "rapid-robotics-facebook-as-proxy",
     "date": "16th January 2021",
-    "cover": "/unsplash.jpg"
+    "cover": "/blog2-header-image.jpg"
   },
   {
     "title": "SourceCode #3",
@@ -21,7 +21,7 @@
     "file": "source3.md",
     "location": "pip-drops-python2-roboflow",
     "date": "23rd January 2021",
-    "cover": "/unsplash.jpg"
+    "cover": "/blog3-header-image.jpg"
   },
   {
     "title": "SourceCode #4",
@@ -29,7 +29,7 @@
     "file": "source4.md",
     "location": "porting-linux-to-m1-slim.ai",
     "date": "30th January 2021",
-    "cover": "/unsplash.jpg"
+    "cover": "/blog4-header-image.jpg"
   },
   {
     "title": "SourceCode #5",
@@ -37,7 +37,7 @@
     "file": "source5.md",
     "location": "github-homepage-openbase",
     "date": "6th February 2021",
-    "cover": "/unsplash.jpg"
+    "cover": "/blog5-header-image.jpg"
   },
   {
     "title": "SourceCode #6",
@@ -45,7 +45,7 @@
     "file": "source6.md",
     "location": "dark-patterns-at-scale-cloudnatix",
     "date": "13th February 2021",
-    "cover": "/unsplash.jpg"
+    "cover": "/blog6-header-image.jpg"
   },
   {
     "title": "SourceCode #7",
@@ -53,7 +53,7 @@
     "file": "source7.md",
     "location": "ibm-blockchain-drivenets",
     "date": "20th February 2021",
-    "cover": "/unsplash.jpg"
+    "cover": "/blog7-header-image.jpg"
   },
   {
     "title": "SourceCode #8",
@@ -61,7 +61,7 @@
     "file": "source8.md",
     "location": "homebrew-upgrade-alloy-automation",
     "date": "27th February 2021",
-    "cover": "/unsplash.jpg"
+    "cover": "/blog8-header-image.jpg"
   }
 ]
 
