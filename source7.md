@@ -12,6 +12,7 @@ Insights from [DriveNets](https://drivenets.com/news-and-events/press-release/dr
 
 DriveNets - the winner of [fierce innovation](https://fiercetelecomawards.secure-platform.com/) award for a second consecutive year - offers communications service providers and cloud providers a radical new way to build networks, detaching network growth from network cost, whilst increasing network profitability. More from the company itself, [here](https://drivenets.com/news-and-events/press-release/drivenets-raises-208-million-funding-to-build-the-network-cloud-infrastructure-of-the-future/).
 
+
 ---
 
 ## Career Opportunities ⚡️
@@ -28,6 +29,8 @@ DriveNets - the winner of [fierce innovation](https://fiercetelecomawards.secure
 
 _Each week at Source Code we showcase some interesting jobs, at some amazing companies. Reach out if you’re hiring. We’d love to help. 👋_
 
+
 ---
+
 
 Interested in reading our full newsletter? Subscribe for weekly updates on developer news, career opportunities & tools below. 👇
