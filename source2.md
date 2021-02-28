@@ -12,6 +12,7 @@ _Insights from [Brian Heater](https://techcrunch.com/2020/11/18/rapid-robotics-r
 
 Bay Area-based Rapid Robotics today announced it has raised \$5.5 million in seed funding in a round led by [Greycroft](https://crunchbase.com/organization/greycroft) and Bee Partners. The announcement comes during what has been a solid several months for robotics funding, and more and more companies are looking to automate workforces as the COVID-19 pandemic has ground a lot of productivity to a halt. More [here](https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/).
 
+
 ---
 
 ## Career Opportunities ⚡️
@@ -26,8 +27,11 @@ Bay Area-based Rapid Robotics today announced it has raised \$5.5 million in see
 
 → Gitpod is hiring for a Senior DevOps Engineer. Apply [here](https://www.gitpod.io/careers/#jobs).
 
+
 _Each week at Source Code we showcase some interesting jobs, at some amazing companies. Reach out if you’re hiring. We’d love to help. 👋_
 
+
 ---
+
 
 Interested in reading our full newsletter? Subscribe for weekly updates on developer news, career opportunities & tools below. 👇
