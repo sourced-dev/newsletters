@@ -4,7 +4,7 @@
 
 _Insights from the [GitHub Staff](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)_
 
-Okay, so this isn’t exactly ‘news’, but sharing another piece of content about Robinhood just felt so.. prosaic? For those of you who haven’t logged out of GitHub (or visited the site in a while 😿), you may have missed the latest iteration of GitHub’s landing page. Despite a series of product shots, animations and videos the page remains highly-performant. Here’s how.
+Okay, so this isn’t exactly ‘news’, but sharing another piece of content about Robinhood just felt so.. prosaic? For those of you who haven’t logged out of GitHub (or visited the site in a while 😿), you may have missed the latest iteration of GitHub’s landing page. Despite a series of product shots, animations and videos the page remains highly-performant. [Here’s how](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/).
 
 ## Openbase raises a \$3.6m seed to help developers find OSS components
 
