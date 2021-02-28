@@ -12,6 +12,7 @@ _Insights from [Catherine Shu](https://techcrunch.com/2021/01/21/cloud-infrastru
 
 CloudNatix describes itself as a ‘cloud infrastructure revolution’. Typically, as organizations grow, multi-cloud complexity increases in tandem; CloudNatix helps businesses manage this complexity by analyzing their infrastructure spending and then using automation to make IT operations across multiple clouds more efficient. More on the round [here](https://techcrunch.com/2021/01/21/cloud-infrastructure-startup-cloudnatix-gets-4-5-million-seed-round-led-by-dnx-ventures/).
 
+
 ---
 
 ## Career Opportunities ⚡️
@@ -28,6 +29,8 @@ CloudNatix describes itself as a ‘cloud infrastructure revolution’. Typicall
 
 _Each week at Source Code we showcase some interesting jobs, at some amazing companies. Reach out if you’re hiring. We’d love to help. 👋_
 
+
 ---
+
 
 Interested in reading our full newsletter? Subscribe for weekly updates on developer news, career opportunities & tools below. 👇
