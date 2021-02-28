@@ -12,6 +12,7 @@ _Insights from [Ron Miller](https://techcrunch.com/2021/01/12/slim-ai-announces-
 
 [Slim.ai](https://www.slim.ai/), a new startup that wants to build a commercial product on top of the [DockerSlim open-source project](https://github.com/docker-slim/docker-slim), announced a \$6.6 million seed round today. The company is still in the very early stages of developing the product, in the meantime, they continue to nurture the open-source project and to build a community around it. More [here](https://techcrunch.com/2021/01/12/slim-ai-announces-6-6m-seed-to-build-container-devops-platform/).
 
+
 ---
 
 ## Career Opportunities ⚡️
@@ -26,8 +27,11 @@ _Insights from [Ron Miller](https://techcrunch.com/2021/01/12/slim-ai-announces-
 
 → Relayfi is hriring for a Senior Mobile Engineer. Apply [here](https://relayfi.com/careers).
 
+
 _Each week at Source Code we showcase some interesting jobs, at some amazing companies. Reach out if you’re hiring. We’d love to help. 👋_
 
+
 ---
+
 
 Interested in reading our full newsletter? Subscribe for weekly updates on developer news, career opportunities & tools below. 👇
