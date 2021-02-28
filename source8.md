@@ -12,6 +12,7 @@ _Insights from [Kevin Zhang](https://medium.com/ideas-from-bain-capital-ventures
 
 With increasing e-commerce offerings (e.g., buy-now-pay-later or AI shopping assistants) comes increasing e-commerce complexity. Alloy’s tech navigates this complexity by helping e-commerce players (and developers) link services to help automate their shipping, marketing, analytics and other tasks. More on the raise [here](https://medium.com/ideas-from-bain-capital-ventures/automating-the-ecommerce-stack-our-investment-in-alloy-23f442e854ec).
 
+
 ---
 
 ## Career Opportunities ⚡️
@@ -28,6 +29,8 @@ With increasing e-commerce offerings (e.g., buy-now-pay-later or AI shopping ass
 
 _Each week at Source Code we showcase some interesting jobs, at some amazing companies. Reach out if you’re hiring. We’d love to help. 👋_
 
+
 ---
+
 
 Interested in reading our full newsletter? Subscribe for weekly updates on developer news, career opportunities & tools below. 👇
