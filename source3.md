@@ -12,7 +12,9 @@ _Insights from [Frederic Lardinois](https://techcrunch.com/2021/01/12/roboflow-r
 
 [Roboflow](https://roboflow.com/), a startup that provides you with ‘everything you need to start building computer vision into your applications’, announced (January 12, 2021) that it has raised a \$2.1 million seed round. So far, ~20,000 developers (!) have used the service, with use cases ranging from accelerating cancer research to smart city applications.Check out their documentation [here](https://docs.roboflow.com/).
 
+
 ---
+
 
 ## Career Opportunities ⚡️
 
@@ -28,6 +30,8 @@ _Insights from [Frederic Lardinois](https://techcrunch.com/2021/01/12/roboflow-r
 
 _Each week at Source Code we showcase some interesting jobs, at some amazing companies. Reach out if you’re hiring. We’d love to help. 👋_
 
+
 ---
+
 
 Interested in reading our full newsletter? Subscribe for weekly updates on developer news, career opportunities & tools below. 👇
