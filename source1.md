@@ -16,6 +16,7 @@ _Insights from [Lucas Matney](https://techcrunch.com/2020/10/29/developer-produc
 
 We’re long Raycast here at SourceCode. More [here](https://techcrunch.com/2020/10/29/developer-productivity-tools-startup-raycast-raises-2-7m-from-accel/).
 
+
 ---
 
 ## Career Opportunities ⚡️
@@ -30,8 +31,11 @@ We’re long Raycast here at SourceCode. More [here](https://techcrunch.com/2020
 
 → Sym is hiring for a Product Designer. Apply [here](https://boards.greenhouse.io/sym).
 
+
 _Each week at Source Code we showcase some interesting jobs, at some amazing companies. Reach out if you’re hiring. We’d love to help. 👋_
 
+
 ---
+
 
 Interested in reading our full newsletter? Subscribe for weekly updates on developer news, career opportunities & tools below. 👇
