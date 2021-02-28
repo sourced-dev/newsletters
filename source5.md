@@ -12,6 +12,7 @@ _Insights from [Ron Miller](https://techcrunch.com/2021/01/13/openbase-scores-3-
 
 [Openbase](https://openbase.com/) is a community for developers to discover and rate over 1.5m JS open-source packages and projects. We’ve all been there, searching through a seemingly unbounded number of packages for even the most niche of tasks — this is awesome — trying to figure out which package to use relative to another and why, less so. [Read more](https://techcrunch.com/2021/01/13/openbase-scores-3-6m-seed-to-help-developers-find-right-open-source-component/) on how Openbase can help.
 
+
 ---
 
 ## Career Opportunities ⚡️
@@ -28,6 +29,8 @@ _Insights from [Ron Miller](https://techcrunch.com/2021/01/13/openbase-scores-3-
 
 _Each week at Source Code we showcase some interesting jobs, at some amazing companies. Reach out if you’re hiring. We’d love to help. 👋_
 
+
 ---
+
 
 Interested in reading our full newsletter? Subscribe for weekly updates on developer news, career opportunities & tools below. 👇
